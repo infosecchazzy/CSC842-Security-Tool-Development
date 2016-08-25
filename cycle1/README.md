@@ -1,14 +1,17 @@
-Filename: last_logon.py
-Written for Python 2.7
+Filename: 
+    last_logon.py
+Written:
+    for Python 2.7
 IDEA:
 
 This script was requested by Dr. Thomas Halverson of DSU
 
 AUTHOR:
-    
-Charles V. Frank Jr.
-Date: 08/25/2016
-Email: charles.frank@trojans.dsu.edu
+    Charles V. Frank Jr.
+Date:
+    08/25/2016
+Email: 
+    charles.frank@trojans.dsu.edu
 
 DESCRIPTION:
 
