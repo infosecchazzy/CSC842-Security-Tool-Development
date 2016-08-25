@@ -1,16 +1,24 @@
 Filename: 
+
     last_logon.py
+    
 Written:
+
     for Python 2.7
+    
 IDEA:
 
-This script was requested by Dr. Thomas Halverson of DSU
+    This script was requested by Dr. Thomas Halverson of DSU
 
 AUTHOR:
+
     Charles V. Frank Jr.
+    
 Date:
+
     08/25/2016
 Email: 
+
     charles.frank@trojans.dsu.edu
 
 DESCRIPTION:
@@ -32,29 +40,30 @@ Pseudocode:
 
         Monitor the activities of the students
 
-USAGE: 
-usage: last_logon.py [-h] [-p <PATTERN>] [-s <STARTING>] [-e <ENDING>] [-l]
-                     [-n] [-t] [-m]
+USAGE:
+
+    usage: last_logon.py [-h] [-p <PATTERN>] [-s <STARTING>] [-e <ENDING>] [-l]
+                         [-n] [-t] [-m]
 
 DSU Linux User Last Logon Script
 
 optional arguments:
 
-  -h, --help     show this help message and exit
+    -h, --help     show this help message and exit
+    
+    -p <PATTERN>   PATTERN for class
   
-  -p <PATTERN>   PATTERN for class
+    -s <STARTING>  STARTING from student number
   
-  -s <STARTING>  STARTING from student number
+    -e <ENDING>    ENDING with student number
   
-  -e <ENDING>    ENDING with student number
+    -l             Last Logon of students
   
-  -l             Last Logon of students
+    -n             Total Number of Logons
   
-  -n             Total Number of Logons
+    -t             Total Amount of Logon Time per student
   
-  -t             Total Amount of Logon Time per student
-  
-  -m             Monitor student activity
+     -m             Monitor student activity
 
 EXAMPLES:    
 
