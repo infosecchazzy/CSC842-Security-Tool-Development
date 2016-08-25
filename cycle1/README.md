@@ -39,13 +39,21 @@ usage: last_logon.py [-h] [-p <PATTERN>] [-s <STARTING>] [-e <ENDING>] [-l]
 DSU Linux User Last Logon Script
 
 optional arguments:
+
   -h, --help     show this help message and exit
+  
   -p <PATTERN>   PATTERN for class
+  
   -s <STARTING>  STARTING from student number
+  
   -e <ENDING>    ENDING with student number
+  
   -l             Last Logon of students
+  
   -n             Total Number of Logons
+  
   -t             Total Amount of Logon Time per student
+  
   -m             Monitor student activity
 
 EXAMPLES:    
