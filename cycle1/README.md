@@ -14,9 +14,6 @@ AUTHOR:
 
     Charles V. Frank Jr.
     
-Date:
-
-    08/25/2016
 Email: 
 
     charles.frank@trojans.dsu.edu
@@ -63,7 +60,7 @@ optional arguments:
   
     -t             Total Amount of Logon Time per student
   
-     -m             Monitor student activity
+    -m             Monitor student activity
 
 EXAMPLES:    
 
