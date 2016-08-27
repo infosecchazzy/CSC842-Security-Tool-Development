@@ -1,0 +1,46 @@
+Main:
+	parse out The arguments
+
+	
+	Build the student list 
+
+	Produce last logon report
+
+	Display Active usage
+
+
+Build the student list:
+
+	for i = starting student number  to ending student number
+		add to student list (class+i)
+
+Produce last logon report:
+
+	for each student in the student list
+
+                cmd_output = last -Fd student 
+
+		for each_line in cmd_output 
+
+			print the first line
+
+			num_logons++
+
+			total_time = total_time + timne on this each_line
+
+Display Active Usage Report:
+
+	for each student in the student list
+
+		cmd_output = w -h student
+
+		for each line in cmd_output
+
+			print the line
+
+
+
+
+		
+  
+	
