@@ -355,7 +355,7 @@ def display_last_logon(s_list, flag_l, flag_n, flag_t) :
     ##Display number of logins for users
     if flag_n :
     	print("")
-    	print("Numner of Logins:")
+    	print("Number of Logins:")
     	for a_line in student_logins :
 		print(a_line)
 
