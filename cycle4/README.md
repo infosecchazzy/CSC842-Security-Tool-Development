@@ -12,9 +12,9 @@ Cycle4 contains enhancements made from cycle1.  Now, the last logon and student 
 
 USAGE:
 
-http:\/\/<your cgi bin location>/last_stud.py
+http://your cgi bin location/last_stud.py
 
-http:\/\/<your cgi bin location>/mon_stud.py
+http://your cgi bin location/mon_stud.py
 
 PREREQS:
 
