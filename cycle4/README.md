@@ -12,8 +12,12 @@ Cycle4 contains enhancements made from cycle1.  Now, the last logon and student 
 
 USAGE:
 
+  Last Logon:
+  
 http://your cgi bin location/last_stud.py
 
+  Student Monitoring:
+  
 http://your cgi bin location/mon_stud.py
 
 PREREQS:
