@@ -5,8 +5,11 @@ DESCRIPTION:
 SCRIPTS:
 
   last_stud.py - last logon search criteria
+  
   display_last.py - display last logon report based upon search criteria
+  
   mon_stud.py - monitor student search criteria
+  
   display_monitor.py - display monitor report
   
 FLOW:
