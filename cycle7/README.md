@@ -1,20 +1,16 @@
-#Student:
+#Student
 
 Charles V. Frank Jr.
 
-#Date:
-
-10/5/16
-
-#Tool:
+#Tool
 
 Student Monitoring
 
-#DESCRIPTION:
+#DESCRIPTION
 
 Cycle 7 is a continuation from Cycle4.  A major redesign attempted to leveral more of OOP (Object Oriented Programming) for PYTHON.  This cycle focused on the Last Logon features and NO features were added for activity monitoring.
 
-#FEATURES Added:
+#FEATURES Added
 
   Home page: student_monitoring.py
 
@@ -22,11 +18,11 @@ Cycle 7 is a continuation from Cycle4.  A major redesign attempted to leveral mo
 
   Schedule Last Logon Report
 
-#ADDITIONAL PYTHON MODULE:
+#ADDITIONAL PYTHON MODULE
 
   pip install python-crontab 
 
-#SERVER REQUIREMENTS:
+#SERVER REQUIREMENTS
 
   SQlite installed
 
@@ -34,7 +30,7 @@ Cycle 7 is a continuation from Cycle4.  A major redesign attempted to leveral mo
 
   SMTP enabled for emailing 
 
-#DIRECTORY STRUCTURE:
+#DIRECTORY STRUCTURE
 
   cg-bin - cgi scripts
 
@@ -44,7 +40,7 @@ Cycle 7 is a continuation from Cycle4.  A major redesign attempted to leveral mo
 
   email - email example
 
-#FUTURE ENHANCEMENTS:
+#FUTURE ENHANCEMENTS
 
   a configuration file
 
