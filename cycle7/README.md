@@ -16,39 +16,39 @@ Cycle 7 is a continuation from Cycle4.  A major redesign attempted to leveral mo
 
 FEATURES Added:
 
-Home page: student_monitoring.py
+  Home page: student_monitoring.py
 
-Email Last Logon Report
+  Email Last Logon Report
 
-Schedule Last Logon Report
+  Schedule Last Logon Report
 
 ADDITIONAL PYTHON MODULE:
 
-pip install python-crontab 
+  pip install python-crontab 
 
 SERVER REQUIREMENTS:
 
-SQlite installed
+  SQlite installed
 
-CGI Enabled Web Server
+  CGI Enabled Web Server
 
-SMTP enabled for emailing 
+  SMTP enabled for emailing 
 
 DIRECTORY STRUCTURE:
 
-cg-bin - cgi scripts
+  cg-bin - cgi scripts
 
-db - sql db
+  db - sql db
 
-daemon - python daemon
+  daemon - python daemon
 
-email - email example
+  email - email example
 
 FUTURE ENHANCEMENTS:
 
-a configuration file
+  a configuration file
 
-graphics
+  graphics
 
-for activity monitoring, compilers
+  monitor compilers besides editors
 
