@@ -10,7 +10,7 @@ Student Monitoring
 
 Cycle 7 is a continuation from Cycle4.  A major redesign attempted to leveral more of OOP (Object Oriented Programming) for PYTHON.  This cycle focused on the Last Logon features and NO features were added for activity monitoring.
 
-#FEATURES Added
+#FEATURES ADDED
 
   Home page: student_monitoring.py
 
