@@ -1,3 +1,4 @@
+
 Student:
 
 Charles V. Frank Jr.
@@ -20,5 +21,12 @@ Under construction is a search for editor and compile activity
 Directories:
 
 CGI - PYTHON CGI
+
 INI - INI file
+
 DB - NoSQL Database for future work
+
+EMAIL - Email Example
+
+DAEMON - Daemon for future work
+
