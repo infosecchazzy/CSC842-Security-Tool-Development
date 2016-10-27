@@ -1,3 +1,4 @@
+
 #Student:
 
 Charles V. Frank Jr.
@@ -25,7 +26,9 @@ Under construction is a search for editor and compile activity
 #SERVER REQUIREMENTS
 
   SQlite installed
+  
   CGI Enabled Web Server
+  
   SMTP enabled for emailing 
 
 #Directories:
