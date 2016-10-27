@@ -1,4 +1,3 @@
-.
 #Student
 
 Charles V. Frank Jr.
@@ -9,9 +8,12 @@ Student Monitoring Prototype
 
 #Description
 
-This tool will monitor the last logon information for students.  
+This tool will monitor the last logon information for students. 
+
 It is written in PYTHON CGI and provide a search screen.
+
 The last logon date, number of logons and the amount of logon time will be provided.
+
 The tools allows for emailing and scheduling of the search.
 
 #Future Work
