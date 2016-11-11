@@ -31,11 +31,11 @@ Under construction is a search for editor and compile activity
 
 #SERVER REQUIREMENTS
 
-  SQlite installed
-  
-  CGI Enabled Web Server
+SQlite installed
 
-  SMTP enabled for emailing 
+CGI Enabled Web Server
+
+SMTP enabled for emailing 
 
 #Directories
 
