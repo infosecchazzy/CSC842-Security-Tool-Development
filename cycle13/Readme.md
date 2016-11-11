@@ -1,4 +1,3 @@
-
 #Student
 
 Charles V. Frank Jr.
@@ -13,11 +12,11 @@ This tool will monitor the last logon information for students.
 
 It is written in PYTHON CGI and provides a search screen.
 
-The last logon date, number of logons and the amount of logon time will be provided.
+The last logon date, number of logons and the amount of logon time is provided.
 
-The tool allows for emailing and scheduling of the search.
+The tool allows for emailing the report and scheduling of the search.
 
-Grahing is provided.
+Various Graphs are provided.
 
 #Future Work
 
