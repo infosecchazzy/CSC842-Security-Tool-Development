@@ -1,3 +1,4 @@
+
 #Student
 
 Charles V. Frank Jr.
@@ -16,6 +17,8 @@ The last logon date, number of logons and the amount of logon time will be provi
 
 The tool allows for emailing and scheduling of the search.
 
+Grahing is provided.
+
 #Future Work
 
 Under construction is a search for editor and compile activity 
@@ -23,6 +26,7 @@ Under construction is a search for editor and compile activity
 #ADDITIONAL PYTHON MODULES
 
   pip install python-crontab 
+  
   pip install bokeh
 
 #SERVER REQUIREMENTS
