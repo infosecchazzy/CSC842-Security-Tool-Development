@@ -41,14 +41,14 @@ SMTP enabled for emailing
 
 cgi-bin - PYTHON CGI
 
-ini - INI file
+daemon - collection artifacts for future work
 
 db - NoSQL Database for future work
 
 email - Email Example
 
-daemon - Daemon for future work
+graphs - graphing samples
 
-graph - graph samples
+ini - ini file required for the prototype
 
 
