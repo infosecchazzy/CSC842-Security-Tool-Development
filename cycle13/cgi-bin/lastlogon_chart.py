@@ -94,6 +94,10 @@ def last_logon_chart(data_list) :
 
    #build the dataframe
    df = build_df(data_list, 'student', 'date')
+
+   
+   #sort by date for the scatter plot
+   df = df.sort(['date', 'student'], ascending=[True, True])
    
    #make a scatter chart
    p = Scatter(df, yscale='datetime', x='student', y='date',
