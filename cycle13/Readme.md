@@ -23,13 +23,13 @@ Various Graphs are provided.
 
 Under construction is a search for editor and compile activity 
 
-#ADDITIONAL PYTHON MODULES
+#Additional PYTHON Modules
 
   pip install python-crontab 
   
   pip install bokeh
 
-#SERVER REQUIREMENTS
+#Server Requirements
 
 SQlite installed
 
