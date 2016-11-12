@@ -1,0 +1,34 @@
+Level 1:
+
+
+     (home page)                     (driver)
+student_monitoring.py  --->  student_monitoring_driver.py 
+                                     |
+                                     |
+                                     ---->  last_stud.py (search screen for last logon)  
+                                            mon_stud.py  (search for student activity)
+                                            maintain_jobs.py  (jobs search)
+
+
+Level 2:
+
+                          |---------------------------------------------------------------------------
+                          |                                                                          |                         
+                         \ /                                                                                                                    |
+                    (report to a file)
+(search)            (report to browser)             (email report file)                              |
+last_stud.py  --->     last_logon.py     ---> email_existing_llog .py ---> email_rpt.py
+     |                                                                                               |                                         
+     |                                                         
+     |        (schedule screen)                 (create a cron job)                                  |                           
+     -----> schedule_last_logon.py  ---> maintain_cron.py ---> email_last_logon.py -------------------
+
+
+
+
+
+(search)                   (delete from from)
+maintain_jobs.py ---> maintain_cron.py ---> delete_jobs.py 
+
+
+
