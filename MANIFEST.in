@@ -1,0 +1,5 @@
+recursively-include cycle1 *.py
+recursively-include cycle4 *.py
+recursively-include cycle7 *.py
+recursively-include cycle10 *.py
+recursively-include cycle13 *.py
